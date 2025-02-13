@@ -1,5 +1,5 @@
-name: REPLACEREPONAME
-title: FIXME Course Title
+name: intro-linux-virt
+title: Introduction to Linux virtualization
 version: 1
 nav:
 - modules/ROOT/nav.adoc

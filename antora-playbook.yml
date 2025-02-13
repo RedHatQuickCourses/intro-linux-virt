@@ -1,6 +1,6 @@
 site:
-  title: FIXME Course Title
-  start_page: REPLACEREPONAME::index.adoc
+  title: Introduction to Linux virtualization
+  start_page: intro-linux-virt::index.adoc
 
 content:
   sources:
